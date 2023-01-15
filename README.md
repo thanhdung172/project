@@ -5,6 +5,7 @@
 Subject: Identify the topic of any text.
 
 Input: any piece of text.
+
 Output: One of the following 18 topics:
 - Art
 - Business
