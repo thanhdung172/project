@@ -25,9 +25,13 @@ Sports
 Tech
 Weird
 
-# Objective: serve to identify topics automatically
+## Objective: serve to identify topics automatically
 
-## Github organize
-# Folders
-
-# Files
+# Github organize
+## Folders
+- report/ : final report and reflection
+- resources/ : collected data
+## Files
+- link.ipynb : notebook consists code used for one url data processing
+- news.ipynb : notebook contains code used for batch data processing (error!)
+- project: main knn project (updating)
